@@ -1,0 +1,21 @@
+{
+  "Settings": {
+
+    "bankEmail": "bank@email.cz",
+    "pdfPassword": "",
+    "pdfPostFix": "_unlocked",
+    "mailLogin": "",
+    "mailPassword": "",
+    "mailImapHost": "",
+    "mailImapPort": 0,
+    "mailSmtpHost": "",
+    "mailSmtpPort": 0,
+    "mailSenderName": "",
+    "mailSenderEmail": "",
+    "mailRecieverName": "",
+    "mailRecieverEmail": "",
+    "mailTextBody": "",
+    "mailSubject": "{EmailDate} {Month.Number} {Month.Word} {Year}",
+    "debugFakeSend": false
+  }
+}
